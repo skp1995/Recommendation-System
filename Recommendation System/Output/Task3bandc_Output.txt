@@ -1,0 +1,23 @@
+python Task3bc.py 4 3 "Om Shanti Om" 5 
+
+Output:
+
+BinNo 20
+Number of movies considered 131
+Prick Up Your Ears
+Auntie Mame
+Guys and Dolls
+Marathon Man
+Caddyshack
+Prick Up Your Ears 		positive(1), negative(-1) or neutral(0) ??
+1
+Auntie Mame 		positive(1), negative(-1) or neutral(0) ??
+1
+Guys and Dolls 		positive(1), negative(-1) or neutral(0) ??
+-1
+Marathon Man 		positive(1), negative(-1) or neutral(0) ??
+1
+Caddyshack 		positive(1), negative(-1) or neutral(0) ??
+-1
+['1', '1', '-1', '1', '-1']
+[('Prick Up Your Ears', '1'), ('Auntie Mame', '1'), ('Guys and Dolls', '-1'), ('Marathon Man', '1'), ('Caddyshack', '-1')]

@@ -1,0 +1,26 @@
+python Task4.py 3 4 "Redbelt" 5
+
+Output:
+BinNo 23
+Number of movies considered 92
+Expelled: No Intelligence Allowed
+Made of Honor
+Bella
+Anamorph
+Taken
+Expelled: No Intelligence Allowed 		positive(1), negative(-1) or neutral(0) ??
+1
+Made of Honor 		positive(1), negative(-1) or neutral(0) ??
+1
+Bella 		positive(1), negative(-1) or neutral(0) ??
+0
+Anamorph 		positive(1), negative(-1) or neutral(0) ??
+-1
+Taken 		positive(1), negative(-1) or neutral(0) ??
+1
+Expelled: No Intelligence Allowed
+Made of Honor
+Taken
+Redbelt
+Bella
+
